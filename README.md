@@ -10,7 +10,7 @@ Currently learning **Laravel**, and planning to explore **Flutter** for mobile a
 - **Version Control:** Git & GitHub  
 
 ## Projects
-Check out my portfolio for projects: [Portfolio Link](https://https://muhib68442.github.io/Portfolio/.com)
+Check out my portfolio for projects: [Portfolio Link](https://https://muhib68442.github.io/Portfolio)
 
 ## Connect with Me
 - **LinkedIn:** [linkedin.com/in/muhib44](https://linkedin.com/in/muhib44)  
